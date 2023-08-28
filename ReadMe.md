@@ -8,4 +8,4 @@ This is a car cluster developed using Qml and PyQt6.
 - install below packages along with python
   - PyQt6 (pip install pyqt6)
   - PyQt6 tools (pip install pyqt6-tools)
--Qt6 SDK (https://d13lb3tujbc8s0.cloudfront.net/onlineinstallers/qt-unified-windows-x64-4.6.0-online.exe)
+- Qt6 SDK (https://d13lb3tujbc8s0.cloudfront.net/onlineinstallers/qt-unified-windows-x64-4.6.0-online.exe)
