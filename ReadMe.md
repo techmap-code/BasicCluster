@@ -10,3 +10,9 @@ This is a car cluster developed using Qml and PyQt6.
   - PyQt6 (pip install pyqt6)
   - PyQt6 tools (pip install pyqt6-tools)
 
+## How to run 
+
+First verify all above dependecies are there.
+To run the application use below command:
+```bash
+python app.py
