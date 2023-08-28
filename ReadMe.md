@@ -1,20 +1,11 @@
-# My Markdown Document
+# Basic Car Cluster UI
 
-This is a *sample* Markdown document. It supports **bold** and _italic_ text.
+This is a car cluster developed using Qml and PyQt6.
 
-## Lists
+## Dependencies
 
-- Item 1
-- Item 2
-  - Subitem 1
-  - Subitem 2
-
-## Links
-
-[Visit Google](https://www.google.com)
-
-## Code
-
-```python
-def hello_world():
-    print("Hello, World!")
+- python 3.11 (https://www.python.org/downloads/release/python-3110/)
+- install below packages along with python
+  - PyQt6 (pip install pyqt6)
+  - PyQt6 tools (pip install pyqt6-tools)
+-Qt6 SDK (https://d13lb3tujbc8s0.cloudfront.net/onlineinstallers/qt-unified-windows-x64-4.6.0-online.exe)
